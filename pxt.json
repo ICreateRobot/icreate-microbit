@@ -18,7 +18,7 @@
         "block/Av_OLED.ts",
         "block/Av_other.ts",
         "README.md",
-        "_locales/zh/icreaterobot-strings.json",
+        "_locales/zh/icreate-microbit-strings.json",
         "_locales/ru/icreaterobot-strings.json",
         "_locales/ja/icreaterobot-strings.json",
         "_locales/ko/icreaterobot-strings.json",
