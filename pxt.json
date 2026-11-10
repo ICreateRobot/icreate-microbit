@@ -19,6 +19,8 @@
         "block/Av_other.ts",
         "README.md",
         "_locales/zh/icreate-microbit-strings.json",
+        "_locales/ar/icreate-microbit-strings.json",
+        "_locales/he/icreate-microbit-strings.json",
         "heart.cpp",
         "MAX30105.cpp",
         "MAX30105.h",
